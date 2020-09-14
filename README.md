@@ -1,1 +1,1 @@
-A simple blog for CRUD Functionalities
+A simple laravel blog with the CRUD Functionalities
